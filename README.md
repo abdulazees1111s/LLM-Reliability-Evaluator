@@ -94,7 +94,7 @@ n8n
 ### 3. Import workflow
 
 * Open n8n UI
-* Import `workflow.json`
+* Import `LLM Evaluator.json`
 
 ### 4. Add API key
 
@@ -113,7 +113,7 @@ Use:
 
 ```
 LLM-Reliability-Evaluator/
- ├── workflow.json
+ ├── LLM Evaluator.json
  ├── README.md
 ```
 
